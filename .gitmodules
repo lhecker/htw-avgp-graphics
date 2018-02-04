@@ -1,0 +1,6 @@
+[submodule "htw-avgp-graphics/cppwinrt"]
+	path = htw-avgp-graphics/cppwinrt
+	url = https://github.com/Microsoft/cppwinrt.git
+[submodule "htw-avgp-graphics/GSL"]
+	path = htw-avgp-graphics/GSL
+	url = https://github.com/Microsoft/GSL.git
